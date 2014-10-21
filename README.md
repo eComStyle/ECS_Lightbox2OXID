@@ -1,5 +1,5 @@
 eComStyle.de Lightbox2OXID
-=====================
+==========================
 Integration der modernen Lightbox2 in den OXID eShop
 
 Features:
@@ -15,7 +15,7 @@ Features:
 
 Shopversion:
 
-	- Getestet mit CE 4.8 / Azure-Theme
+	- OXID CE 4.8 und 4.9 / Azure-Theme
 	
 
 jQuery Version (nicht bei Shopversion 4.8 erforderlich!):
