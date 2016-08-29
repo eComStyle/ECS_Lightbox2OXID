@@ -20,8 +20,7 @@ $sMetadataVersion = '1.1';
 $aModule = array(
     'id'            => 'ecs_light2ox',
     'title'         => '<strong style="color:#04B431;">e</strong><strong>ComStyle.de</strong>:  <i>Lightbox2OXID</i>',
-    'description'   => 'Die moderne Lightbox2 ersetzt den OXID - Bilderzoom.
-                        <br><iframe frameborder="no" width="600px" height="400px" src="https://ssl-account.com/incl.oxidtheme.de/gratis.html"></iframe>',
+    'description'   => 'Die moderne Lightbox2 ersetzt den OXID - Bilderzoom.',
     'version'       => '1.1',
     'thumbnail'     => 'ecomstyle.png',
     'author'        => '<strong style="font-size: 17px;color:#04B431;">e</strong><strong style="font-size: 16px;">ComStyle.de</strong>',
